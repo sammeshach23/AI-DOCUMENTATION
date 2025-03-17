@@ -6,7 +6,7 @@ import zipfile
 import time
 
 client = Groq(
-    api_key="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",
+    api_key="",
 )
 
 st.title("AI Documentation Generator")
