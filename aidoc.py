@@ -8,11 +8,11 @@ import google.generativeai as genai
 import textwrap
 
 # client = Groq(
-#     api_key="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",
+#     api_key="",
 # )
 
 # openai.api_key = "your_openai_api_key"
-GOOGLE_API_KEY = "AIzaSyCkok9v4gHKiTrMEsm_geb6OO00c_3Fy3g"
+GOOGLE_API_KEY = ""
 
 genai.configure(api_key=GOOGLE_API_KEY)
 
